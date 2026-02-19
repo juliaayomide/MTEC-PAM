@@ -1,5 +1,5 @@
-# 📘 Repositótio destinado a matéria de Programação de aplicativos mobile
-
+# 📘 Repositótio destinado a matéria de Programação de aplicativos mobile (PAM)
+ 
 ## 📌 Sobre a introdução
 
 Este repositório tem como objetivo apresentar os **conceitos iniciais de JavaScript**, utilizando exemplos simples e projetos práticos para facilitar o entendimento da linguagem.
