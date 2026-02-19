@@ -4,7 +4,7 @@
 
 Este repositório tem como objetivo apresentar os **conceitos iniciais de JavaScript**, utilizando exemplos simples e projetos práticos para facilitar o entendimento da linguagem.
 
-O foco é auxiliar iniciantes a compreender a lógica de programação, a sintaxe básica do JavaScript e a interação com o usuário de forma clara e objetiva.
+O foco é auxiliar a compreender a lógica de programação, a sintaxe básica do JavaScript e a interação com o usuário de forma clara e objetiva.
 
 ---
 
